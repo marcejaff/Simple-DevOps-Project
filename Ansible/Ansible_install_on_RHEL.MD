@@ -56,7 +56,7 @@
    ```
 ### Validation test
 
-1. Create a directory /etc/ansible and create an inventory file called "hosts" add control node IP address in it. 
+1.On the Managed Control Node create a directory /etc/ansible and create an inventory file called "hosts" add Managed host Private  IP address in it. 
    
 1. Run ansible command as ansadmin user it should be successful (Master)
    ```sh 
