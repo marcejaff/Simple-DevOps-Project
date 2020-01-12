@@ -55,7 +55,8 @@ Enable connection between Ansible-control-node and Jenkins
                
        -  `Advanced` > chose `Use password authentication, or use a different key`
 		 - password: `*******`
--Go to ansible control node
+
+- Go to ansible control node
        -Go to /opt and create a directory called docker
        -Give the user ansadmin ownership of the 'docker directory: chown -R ansadmin:ansadmin /opt/docker
  
