@@ -1,4 +1,4 @@
-# Deploy on a docker container using Jenkins 
+# Deploy TO DOCKER CONTAINER using Jenkins 
 # `Deploy_on_Container`
 
 ### Pre-requisites
